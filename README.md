@@ -1,2 +1,2 @@
 # About
-Data visualisation using plotnine - Grammar of Graphics for Python.
+Playing around with plotnine - Grammar of Graphics for Python.
